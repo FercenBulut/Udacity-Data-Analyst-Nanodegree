@@ -8,5 +8,5 @@ https://www.udacity.com/course/data-analyst-nanodegree--nd002
 Data Analyst Nanodegree Certificate
 
 <p align="center">
-  <img width="779" height="600" src="hhttps://github.com/FercenBulut/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity_Data%20Analyst_Certificate.pdf">
+  <img width="779" height="600" src="https://github.com/FercenBulut/Udacity-Data-Analyst-Nanodegree/blob/main/Udacity_Data%20Analyst_Certificate.png">
 </p>
